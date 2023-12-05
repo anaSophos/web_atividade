@@ -1,0 +1,18 @@
+.base{
+    margin: auto;
+    margin-top: 40px;
+    margin-left: 38%;
+}
+
+.button{
+    background-color: black;
+    width: 40%;
+    height: 40px;
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    border-radius: 8px;
+    cursor: pointer;
+}
